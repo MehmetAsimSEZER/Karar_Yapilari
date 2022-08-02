@@ -1,3 +1,4 @@
 # Karar_Yapilari
-if else ternary
+if else ternary,
+switch case
 https://app.patika.dev
